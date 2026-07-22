@@ -34,12 +34,14 @@ This repository documents my day-by-day journey of learning Python from basics t
 
 ## 📅 Learning Progress
 
-| Day   | Topics                             | Status      |
-| ----- | ---------------------------------- | ----------- |
+| Day   | Topics                             | Status       |
+| ----- | ---------------------------------- | -----------  |
 | Day 1 | Python Basics                      | ✅ Completed |
 | Day 2 | Operators & Conditional Statements | ✅ Completed |
 | Day 3 | Loop                               | ✅ Completed |
 | Day 4 | Loops intermediate                 | ✅ Completed |
+| Day 5 | Loops advance                      | ✅ Completed |
+
 
 More updates will be added as I continue my learning journey.
 
